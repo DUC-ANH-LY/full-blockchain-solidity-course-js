@@ -628,6 +628,7 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 *[⌨️ (02:03:05) Introduction](https://youtu.be/gyMwXuJrbJQ?t=7385)*
 - [Remix](https://remix.ethereum.org/)
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
+- https://www.tutorialspoint.com/solidity/index.htm (tutorial)
 
 ## Setting Up Your First Contract
 *[⌨️ (02:05:18) Setting Up Your First Contract](https://youtu.be/gyMwXuJrbJQ?t=7518)*
